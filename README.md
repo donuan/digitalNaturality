@@ -1,14 +1,10 @@
 # digitalNaturality
 This is the documentation of the artistic research project .digitalNaturality by Hannes Andersson for MFA MADtech @ Frank Mohr Institute
 
+more documentation and theory can be found on http://blog.donuan.tv
+
+
 #Key Concepts
-
-Digital Naturality –
-Immersive (Intrusive) Environments.
-Artistic Research Concept for MFA MADtech @ Frank Mohr Institute, Minerva Art Academy 2015. 
-(First Draft)
-By Hannes Andersson.
-
 
 In essence, my ambition is to create art that illuminate, question and alter (hack) the cognitive process of defining self in relation to our embedment in culture and environment. 
 I believe that this could provoke new insights in the relationship between the individual, and the environment, and in turn the way we interact with our shared space, as well as think about our affectability as a part of the human species and the natural systems that compose our environment. 
